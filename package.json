@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-killara",
+  "version": "0.0.1",
+  "description": "Killara's eslint config, based on Standard",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killara/eslint-config-killara.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Runrioter Wung <runrioter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killara/eslint-config-killara/issues"
+  },
+  "homepage": "https://github.com/killara/eslint-config-killara#readme",
+  "peerDependencies": {
+    "eslint-config-standard": "*"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./index.js"
+  }
+}
