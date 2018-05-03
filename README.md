@@ -30,3 +30,8 @@ Then, add this to your .eslintrc file:
 
 You can override settings from the shareable config by adding them directly into your
 `.eslintrc` file.
+
+
+## License
+
+MIT
