@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-killara",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Killara's eslint config, based on Standard",
   "scripts": {
     "test": "eslint ."
