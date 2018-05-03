@@ -1,8 +1,8 @@
 # eslint-config-killara
-[![NPM version](https://img.shields.io/npm/v/eslint-config-killara)](https://www.npmjs.com/package/eslint-config-killara)
+[![NPM version](https://img.shields.io/npm/v/eslint-config-killara.svg)](https://www.npmjs.com/package/eslint-config-killara)
 [![build status](https://img.shields.io/travis/killara/eslint-config-killara/master.svg)](https://travis-ci.org/killara/eslint-config-killara)
-[![dependency status](https://img.shields.io/david/dev/killara/eslint-config-killara)](https://david-dm.org/killara/eslint-config-killara?type=dev)
-[![downloads](https://img.shields.io/npm/dm/eslint-config-killara)](https://www.npmjs.com/package/eslint-config-killara)
+[![dependency status](https://img.shields.io/david/dev/killara/eslint-config-killara.svg)](https://david-dm.org/killara/eslint-config-killara?type=dev)
+[![downloads](https://img.shields.io/npm/dt/eslint-config-killara.svg)](https://www.npmjs.com/package/eslint-config-killara)
 
 [Killara](https://www.npmjs.com/package/killara)'s ESLint config, based on [Standard](https://www.npmjs.com/package/eslint-config-standard)
 
